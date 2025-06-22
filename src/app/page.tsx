@@ -24,7 +24,7 @@ const Page = () => {
                         <Link href="/blog/1" className="block group">
                             <div className="h-40 rounded-2xl border border-gray-200 shadow-md overflow-hidden transition-transform duration-200 group-hover:scale-105 group-hover:shadow-lg bg-white flex items-center justify-center">
                                 <Image
-                                    src="/react_next.png"
+                                    src="/otegaru-blog/react_next.png"
                                     alt="Next.js Logo"
                                     width={256}
                                     height={128}
