@@ -1,3 +1,11 @@
+export async function generateStaticParams() {
+    // 静的に生成したい id のリストを返す
+    return [
+        { id: '1' },
+        // 必要な分だけ追加
+    ];
+}
+
 const Page = () => {
     return (
         <div className="max-w-2xl mx-auto px-4 py-8">
