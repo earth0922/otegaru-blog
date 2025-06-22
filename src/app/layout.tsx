@@ -7,7 +7,7 @@ type LayoutProps = {
 };
 
 export const metadata = {
-    title: 'Ficree',
+    title: 'Otegaru Blog',
     description: 'A simple Next.js application with a custom layout',
     keywords: 'Next.js, React, Layout, Header',
     authors: [{ name: 'suzuki taisei', url: 'https://yourwebsite.com' }],
